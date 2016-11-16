@@ -14,6 +14,11 @@ Spring 2010
 
 We evaluated several Prolog engines and chose [YProlog](http://freecode.com/projects/yprolog). 
 
+The presentation is available [here](https://drive.google.com/open?id=0B-CHxEeXdpp2SlBCXzcwRFNzMzg).
+
+
+## Syntax
+
 Jylog handles Prolog facts and rules like the following - 
 
     >>> PROLOG wrote('pkd','valis').
